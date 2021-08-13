@@ -1,0 +1,55 @@
+body, html {
+    margin: 0;
+    font-family: 'Times New Roman';
+    background-color: darkslategray;
+}
+
+.content {
+    margin: 0 auto;
+    width: fit-content;
+    color: navajowhite;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#Submit_Button {
+    background-color: #ff0400;
+    border-color: #ff0400;
+    color: white;
+    width: 150px;
+    position: center;
+}
+
+#Search_Address {
+    width: 500px;
+}
+
+th {
+    height: 40px;
+    color:yellow;
+}
+
+td {
+    text-align: center;
+    padding: 7px;
+    color:antiquewhite;
+}
+
+.form {
+    display: table;
+    margin-left: 25%;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#content {
+    width: 100%;
+}
