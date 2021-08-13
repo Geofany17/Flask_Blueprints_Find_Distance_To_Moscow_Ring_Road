@@ -1,6 +1,6 @@
 # Overview
 
-This Flask Blueprints app calculates the distance from any given address to the Moscow Ring Road (MKAD) written in Python. The API I use is the Yandex Geocoder API. The challenge for me for this test is how I should learn about Flask Blueprints and Geocoder. It took quite a while for me to learn Flask as it was my first time using it. Yandex Geocoder itself requires an API key. To be able to get the key can visit the web https://yandex.ru/dev/maps/geocoder/doc/desc/concepts/about.html. The difficulty is because the web itself is in Russian so it took me a while to get the Yandex Geocoder API key. But overall, the results are quite satisfactory for me who is the first time using Flask and Geocoder API.
+This Flask Blueprints app calculates the distance from any given address to the Moscow Ring Road (MKAD) written in Python. The API I use is the Yandex Geocoder API. The challenge for me for this test is how I should learn about Flask Blueprints and Geocoder. It took quite a while for me to learn Flask as it was my first time using it. Yandex Geocoder itself requires an API key. To be able to get the key can visit the web https://yandex.ru/dev/maps/geocoder/doc/desc/concepts/about.html. The difficulty is because the web itself is in Russian so it took me a while to get the Yandex Geocoder API key. But overall, the results are quite satisfactory for me who is the first time using Flask and Geocoder API. The found data is written to the ```MKAD_Distance_Searches.log``` file
 
 
 ## How to use
